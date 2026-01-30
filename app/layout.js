@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Netflix Clone",
+  title: "Cinephile",
   description: "Movies, TV shows, and more.",
 };
 

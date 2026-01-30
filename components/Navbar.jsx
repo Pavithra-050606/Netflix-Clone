@@ -28,13 +28,10 @@ export default function Navbar() {
       isScrolled ? "bg-[#141414]/90 backdrop-blur-md shadow-md" : "bg-gradient-to-b from-black/80 to-transparent"
     )}>
        <div className="flex items-center gap-4 md:gap-8">
-         <div className="relative h-4 w-24 md:h-7 md:w-32">
-            <Image 
-              src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" 
-              alt="Logo" 
-              fill
-              className="object-contain"
-            />
+         <div className="relative h-auto w-auto">
+            <h1 className="text-red-600 text-2xl md:text-3xl font-black tracking-tighter cursor-pointer hover:scale-105 transition-transform">
+              CINEPHILE
+            </h1>
          </div>
          
          {/* Desktop Menu */}
