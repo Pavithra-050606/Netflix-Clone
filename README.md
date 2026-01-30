@@ -1,4 +1,4 @@
-# 🍿 Netflix Clone: Antigravity Edition( https://pavithra-050606.netlify.app/ )
+# 🍿 Netflix Clone:( https://pavithra-050606.netlify.app/ )
 
 > **A high-performance, pixel-perfect recreation of the Netflix experience, built for the modern web.**
 
