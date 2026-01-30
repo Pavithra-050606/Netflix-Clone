@@ -41,8 +41,7 @@ We didn't just clone the layout; we cloned the **experience**. This project focu
 
 4.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🎨 Antigravity Philosophy
-Where most clones use heavy JS libraries for animations, we utilized high-performance CSS transforms (`scale`, `translate`) with hardware acceleration to ensure 60fps performance even on lower-end devices. The "hover-and-expand" mechanism was re-engineered to prevent layout shifts while maintaining context.
+
 
 ---
 *Built with ❤️ for the Hackathon 2026*
